@@ -59,4 +59,4 @@ Simulate a brute-force attack on `http://testphp.vulnweb.com/login.php` using **
 - Visit the target login page
 - Submit dummy credentials (e.g. `user:pass`)
 - Intercept the POST request:
-- 
+
